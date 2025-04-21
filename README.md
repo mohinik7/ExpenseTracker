@@ -1,4 +1,4 @@
-# Budget Tracker Application
+# Expense Tracker Application
 
 A comprehensive financial management system designed to help users track expenses, manage accounts, set budgets, and gain insights into their spending habits.
 
